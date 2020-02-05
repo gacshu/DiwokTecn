@@ -1,0 +1,12 @@
+C:\Users\Etopia\Documents\PyThon\sonidoss\conga.mp3,c
+C:\Users\Etopia\Documents\PyThon\sonidoss\kick.mp3,kick
+C:\Users\Etopia\Documents\PyThon\sonidoss\snare.mp3,snare
+C:\Users\Etopia\Documents\PyThon\sonidoss\hihat.mp3,hat
+C:\Users\Etopia\Documents\PyThon\sonidoss\tom.mp3,tom
+C:\Users\Etopia\Documents\PyThon\sonidoss\hola.mp3,hola
+C:\Users\Etopia\Documents\PyThon\sonidoss\snare.mp3,snare2
+C:\Users\Etopia\Documents\PyThon\sonidoss\kick.mp3,kick2
+C:\Users\Etopia\Documents\PyThon\sonidoss\crash.mp3,crash
+C:\Users\Etopia\Documents\PyThon\sonidoss\Full 808 Drum Kit\Cymbal\808CY_1_Tape.wav,kkk
+C:\Users\Etopia\Documents\PyThon\sonidoss\sans.mp3,Sans
+C:\Users\Etopia\Documents\PyThon\sonidoss\animal-crossing-isabelle-voice-clips-no-background-music.mp3,CRUZADANIMAL
